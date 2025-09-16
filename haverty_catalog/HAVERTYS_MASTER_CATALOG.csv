@@ -1,0 +1,58 @@
+catalog_number,item_name,item_type,price,color,image_url,link
+HF-BD-001,Briar Lake Bed,bed,$899.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/5-4598-0122?wid=824&hei=551,https://www.havertys.com/products/product-page/briar-lake-bed
+HF-BD-002,Ashebrooke Bed,bed,$899.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/5-4590-2445?wid=824&hei=551,https://www.havertys.com/products/product-page/ashebrooke-bed
+HF-BD-003,Sherman Panel Bed,bed,$1099.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/5-4598-0003?wid=824&hei=551,https://www.havertys.com/products/product-page/sherman-panel-bed
+HF-BD-004,Vickery Creek Bed,bed,$1049.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/5-4598-0013?wid=824&hei=551,https://www.havertys.com/products/product-page/vickery-creek-bed
+HF-BD-005,Coastal Retreat Bed,bed,$1099.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/5-4598-0226?wid=824&hei=551,https://www.havertys.com/products/product-page/coastal-retreat-bed
+HF-BD-006,Ashford Park Upholstered Bed,bed,$699.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/5-4500-1873?wid=824&hei=551,https://www.havertys.com/products/product-page/ashford-park-upholstered-bed
+HF-BD-007,Wesley Bed,bed,$699.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/5-4598-0299?wid=824&hei=551,https://www.havertys.com/products/product-page/wesley-bed
+HF-BD-008,Blackburn Bed,bed,$799.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/5-4500-1427?wid=824&hei=551,https://www.havertys.com/products/product-page/blackburn-bed
+HF-BD-009,Nantucket Poster Bed,bed,$1399.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/5-4500-1645?wid=824&hei=551,https://www.havertys.com/products/product-page/nantucket-poster-bed
+HF-BD-010,Hampton Bed,bed,$1599.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/5-4500-2728?wid=824&hei=551,https://www.havertys.com/products/product-page/hampton-bed
+HF-DR-001,Lucy Dresser,dresser,$3999.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3726?wid=824&hei=551,https://www.havertys.com/products/product-page/lucy-dresser
+HF-DR-002,Marilyn Dresser,dresser,$1799.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/1-4500-0221?wid=824&hei=551,https://www.havertys.com/products/product-page/marilyn-dresser
+HF-DR-003,Sherman Dresser,dresser,$1599.99,Standard finish,,https://www.havertys.com/products/product-page/sherman-dresser
+HF-DR-004,Corsica Dresser,dresser,$1499.99,Standard finish,,https://www.havertys.com/products/product-page/corsica-dresser
+HF-DR-005,Nantucket Dresser,dresser,$1699.99,Standard finish,,https://www.havertys.com/products/product-page/nantucket-dresser
+HF-DR-006,Coastal Retreat Dresser,dresser,$1149.99,Standard finish,,https://www.havertys.com/products/product-page/coastal-retreat-dresser
+HF-DR-007,Cascade Dresser,dresser,$1699.99,Standard finish,,https://www.havertys.com/products/product-page/cascade-dresser
+HF-DR-008,Breckenridge Dresser,dresser,$1699.99,Standard finish,,https://www.havertys.com/products/product-page/breckenridge-dresser
+HF-DR-009,Briar Lake Dresser,dresser,$1399.99,Standard finish,,https://www.havertys.com/products/product-page/briar-lake-dresser
+HF-DR-010,Vickery Creek Dresser,dresser,$1399.99,Standard finish,,https://www.havertys.com/products/product-page/vickery-creek-dresser
+HF-NS-001,Coastal Retreat Nightstand,nightstand,$499.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3458?wid=824&hei=551,https://www.havertys.com/products/product-page/coastal-retreat-nightstand
+HF-NS-002,Blackburn Nightstand,nightstand,$599.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/1-4500-0272?wid=824&hei=551,https://www.havertys.com/products/product-page/blackburn-nightstand
+HF-NS-003,Marilyn Nightstand,nightstand,$899.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/1-4500-0223?wid=824&hei=551,https://www.havertys.com/products/product-page/marilyn-nightstand
+HF-NS-004,Nantucket Open Nightstand,nightstand,$499.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/1-4500-0316?wid=824&hei=551,https://www.havertys.com/products/product-page/nantucket-open-nightstand
+HF-NS-005,Hyde Park Nightstand,nightstand,$1299.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3197?wid=824&hei=551,https://www.havertys.com/products/product-page/hyde-park-nightstand
+HF-NS-006,Coastal Retreat Open Nightstand,nightstand,$449.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3459?wid=824&hei=551,https://www.havertys.com/products/product-page/coastal-retreat-open-nightstand
+HF-NS-007,Grayson Nightstand,nightstand,$329.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-2973?wid=824&hei=551,https://www.havertys.com/products/product-page/grayson-nightstand
+HF-NS-008,Candler Park Leg Nightstand,nightstand,$999.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3452?wid=824&hei=551,https://www.havertys.com/products/product-page/candler-park-leg-nightstand
+HF-NS-009,Vickery Creek Nightstand,nightstand,$549.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3586?wid=824&hei=551,https://www.havertys.com/products/product-page/vickery-creek-nightstand
+HF-NS-010,Corsica Nightstand,nightstand,$699.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3780?wid=824&hei=551,https://www.havertys.com/products/product-page/corsica-nightstand
+HF-CH-001,Candler Park Chest,chest,$3699.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3451?wid=824&hei=551,https://www.havertys.com/products/product-page/candler-park-chest
+HF-CH-002,Briar Lake Door Chest,chest,$1499.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3128?wid=824&hei=551,https://www.havertys.com/products/product-page/briar-lake-door-chest
+HF-CH-003,Veranda Chest,chest,$1299.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3266?wid=824&hei=551,https://www.havertys.com/products/product-page/veranda-chest
+HF-CH-004,Ashebrooke Chest,chest,$799.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/1-4500-0641?wid=824&hei=551,https://www.havertys.com/products/product-page/ashebrooke-chest
+HF-CH-005,Westhaven Bachelor Chest,chest,$799.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3830?wid=824&hei=551,https://www.havertys.com/products/product-page/westhaven-bachelor-chest
+HF-CH-006,Blackburn Master Chest,chest,$2499.99,Standard finish,,https://www.havertys.com/products/product-page/blackburn-master-chest
+HF-CH-007,Hyde Park Master Chest,chest,$2899.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3179?wid=824&hei=551,https://www.havertys.com/products/product-page/hyde-park-master-chest
+HF-CH-008,Corsica Drawer Chest,chest,$1299.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3781?wid=824&hei=551,https://www.havertys.com/products/product-page/corsica-drawer-chest
+HF-CH-009,Hyde Park Bachelor Chest,chest,$1499.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3196?wid=824&hei=551,https://www.havertys.com/products/product-page/hyde-park-bachelor-chest
+HF-CH-010,Breckenridge Master Chest,chest,$2099.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3333?wid=824&hei=551,https://www.havertys.com/products/product-page/breckenridge-master-chest
+HF-BN-001,Hyde Park Bench,bench,$999.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4500-3198?wid=824&hei=551,https://www.havertys.com/products/product-page/hyde-park-bench
+HF-BN-002,Kelly Leather Storage Bench,bench,$1399.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-2501-5213?wid=824&hei=551,https://www.havertys.com/products/product-page/kelly-leather-storage-bench
+HF-BN-003,Laurel Canyon Bench,bench,$399.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/1-4500-0491?wid=824&hei=551,https://www.havertys.com/products/product-page/laurel-canyon-bench
+HF-BN-004,Kelly Storage Bench,bench,$899.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-2501-1208?wid=824&hei=551,https://www.havertys.com/products/product-page/kelly-storage-bench
+HF-BN-005,Lane Park Stool,bench,$549.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/1-4500-0338?wid=824&hei=551,https://www.havertys.com/products/product-page/lane-park-stool
+HF-BN-006,Anya Bench,bench,$2399.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-4000-4197?wid=824&hei=551,https://www.havertys.com/products/product-page/anya-bench
+HF-BN-007,Corsica Bench,bench,$449.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/1-4500-0254?wid=824&hei=551,https://www.havertys.com/products/product-page/corsica-bench
+HF-SF-001,Sandy Sofa,sofa,$1199.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/1-2500-8297?wid=824&hei=551,https://www.havertys.com/products/product-page/sandy-sofa
+HF-SF-002,Centennial Sofa,sofa,$1999.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-2501-0273?wid=824&hei=551,https://www.havertys.com/products/product-page/centennial-sofa
+HF-SF-003,Jubilee 88 Inch 2 Seat Sofa,sofa,$1699.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-2501-4958?wid=824&hei=551,https://www.havertys.com/products/product-page/jubilee-88-inch-2-seat-sofa
+HF-SF-004,Kensington Power Sofa,sofa,$2699.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-2501-5134?wid=824&hei=551,https://www.havertys.com/products/product-page/kensington-power-sofa
+HF-SF-005,Apollo Power Sofa,sofa,$2299.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-2501-0866?wid=824&hei=551,https://www.havertys.com/products/product-page/apollo-power-sofa
+HF-SF-006,Jenna Sofa,sofa,$999.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/1-2500-9911?wid=824&hei=551,https://www.havertys.com/products/product-page/jenna-sofa
+HF-SF-007,Paris Sofa,sofa,$1299.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-2501-4298?wid=824&hei=551,https://www.havertys.com/products/product-page/paris-sofa
+HF-SF-008,Sandy Sleeper,sofa,$1699.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-3000-2412?wid=824&hei=551,https://www.havertys.com/products/product-page/sandy-sleeper
+HF-SF-009,Ava Sofa,sofa,$2699.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/1-2500-9726?wid=824&hei=551,https://www.havertys.com/products/product-page/ava-sofa
+HF-SF-010,Lillian 82 Inch 2 Seat Queen Sleeper Sofa,sofa,$3299.99,Standard finish,https://havertys.scene7.com/is/image/HvtWeb2/0-3000-2989?wid=824&hei=551,https://www.havertys.com/products/product-page/lillian-82-inch-2-seat-queen-sleeper-sofa
