@@ -1,9 +1,0 @@
-catalog_number,item_name,price,link,image_url,colors,dimensions,item_type
-BC-LA-001,Globe original,$70.00,https://www.boconcept.com/en-us/p/globe/104_11032150/,BoConcept_catalog/lamps/Globe_original.jpg,,"{'height': '5 ""'}",lamps
-BC-LA-002,Curious floor lamp,$689.00,https://www.boconcept.com/en-us/p/curious/105_30000760-8:168/,BoConcept_catalog/lamps/Curious_floor_lamp.jpg,,"{'height': '53¾ ""'}",lamps
-BC-LA-003,Stockholm table lamp,"$1,219.00",https://www.boconcept.com/en-us/p/stockholm/105_00001370-2:144-8:167/,BoConcept_catalog/lamps/Stockholm_table_lamp.jpg,,"{'height': '20½ ""'}",lamps
-BC-LA-004,Ball pendant,$499.00,https://www.boconcept.com/en-us/p/ball/105_60001880-2:127-8:81/,BoConcept_catalog/lamps/Ball_pendant.jpg,,"{'height': '8 ""'}",lamps
-BC-LA-005,Curious table lamp,$519.00,https://www.boconcept.com/en-us/p/curious/105_00001390-8:168/,BoConcept_catalog/lamps/Curious_table_lamp.jpg,,"{'depth': '19¾ ""', 'height': '22¾ ""', 'width': '13 ""'}",lamps
-BC-LA-006,Stockholm pendant,"$1,149.00",https://www.boconcept.com/en-us/p/stockholm/105_60002240-2:299-8:167/,BoConcept_catalog/lamps/Stockholm_pendant.jpg,,"{'height': '19½ ""'}",lamps
-BC-LA-007,Ripple pendant,"$1,199.00",https://www.boconcept.com/en-us/p/ripple/105_00001520/,BoConcept_catalog/lamps/Ripple_pendant.jpg,,"{'height': '8 ""'}",lamps
-BC-LA-008,Kip floor lamp,"$1,099.00",https://www.boconcept.com/en-us/p/kip/105_30000730-8:81/,BoConcept_catalog/lamps/Kip_floor_lamp.jpg,,"{'height': '57½ ""'}",lamps

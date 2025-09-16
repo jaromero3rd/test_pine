@@ -1,4 +1,0 @@
-request_number,room_type,style_type,color_pallet,budget,design_sufficed,extraction_sufficed,similarity_sufficed,selected_sufficed,final_room_sufficed
-1,living_room,modern,neutral,$10000,yes,yes,yes,yes,yes
-2,living_room,modern,neutral,$10000,yes,yes,yes,yes,yes
-3,living_room,modern,neutral,$10000,yes,yes,yes,yes,no
